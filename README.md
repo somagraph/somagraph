@@ -196,9 +196,5 @@ C4Container
 ---
 
 <div align="center">
-<sub>
-
-⚠️ Somagraph provides wellness insights derived from peer-reviewed longevity research formulas. Results are informational and educational, not medical advice. Always consult a licensed physician before making changes to your health regimen. $SOMA is a utility token, not a security. It confers no equity and no claim on protocol revenue. Smart contract risk exists. Do not deploy capital you cannot afford to lose.
-
-</sub>
+<sub>⚠️ Somagraph provides wellness insights derived from peer-reviewed longevity research formulas.<br>Results are informational and educational, not medical advice. Always consult a licensed physician before making changes to your health regimen.<br>$SOMA is a utility token, not a security. It confers no equity and no claim on protocol revenue.<br>Smart contract risk exists. Do not deploy capital you cannot afford to lose.</sub>
 </div>
