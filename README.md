@@ -44,7 +44,7 @@ The analysis costs roughly the same as a coffee. Your library of past panels liv
 │   4. NARRATE             5. RECOMMEND            6. ATTEST          │
 │   AI explains each       Prioritized action      On-chain hash      │
 │   value for YOUR         plan with estimated     attestation via     │
-│   profile specifically   bio-age impact per      somagraph-core      │
+│   profile specifically   bio-age impact per      somagraph-engine    │
 │                          intervention            Anchor program      │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
@@ -124,7 +124,7 @@ C4Container
     }
 
     System_Boundary(chain, "Solana Mainnet") {
-        Container(program, "somagraph-core", "Anchor / Rust", "Burn, attestation, treasury, buyback")
+        Container(program, "somagraph-engine", "Anchor / Rust", "Burn, attestation, treasury, buyback")
     }
 
     System_Ext(jupiter, "Jupiter Aggregator", "DEX swap for USDC buyback")
